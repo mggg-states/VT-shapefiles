@@ -2,7 +2,7 @@
 This shapefile was obtained from the Vermont Open Geodata Portal and processed by members of the Metric Geometry and Gerrymandering Group (MGGG). 
 
 ## Sources
-The Vermont town shapefile was downloaded from the Vermont Open Geodata Portal (available here http://geodata.vermont.gov/datasets/vt-data-town-boundaries). Election data were downloaded from the Secretary of State’s website (available here https://www.sec.state.vt.us/elections/election-results.aspx). Demographic information from the 2010 Decennial Census was downloaded at the sub-county level from American FactFinder (available here: https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml).
+The Vermont town shapefile was downloaded from the [Vermont Open Geodata Portal](http://geodata.vermont.gov/datasets/vt-data-town-boundaries). Election data were downloaded from the Secretary of State’s [website](https://www.sec.state.vt.us/elections/election-results.aspx). Demographic information from the 2010 Decennial Census was downloaded at the sub-county level from [American FactFinder](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml).
 
 ## Processing
 Demographic and election data were joined to the shapefile using QGIS. Vermont does not release election results for towns with a total population under 50, thus 9 towns have been excluded from this module.
